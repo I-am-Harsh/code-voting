@@ -1,0 +1,48 @@
+Online deployed app url - 
+
+https://candidate-voting-coda.herokuapp.com/
+
+Source code is included
+
+OFFLINE APP INSTRUCTIONS
+to run the app 
+
+client
+navigate to client - 
+
+cd client
+
+install npm packages - 
+npm install
+
+create a file in ./client/
+name the file .env
+copy and paste this in it - 
+
+REACT_APP_API = 'http://localhost:9000'
+
+to start dev server - 
+npm start
+
+
+START server
+
+navigate to server 
+
+cd ../server
+
+install modules
+npm install
+
+run 
+npm start
+
+
+go to browser and use url - 
+
+localhost:3000/
+
+if you did everything right it should work
+
+
+
